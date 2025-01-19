@@ -2,5 +2,8 @@
 -Estado del proyecto: En construcción.
 <br>
 Para ejecutar el sistema, debes poner:
+
+<br>
+comando
 <br>
 npm imstall react
