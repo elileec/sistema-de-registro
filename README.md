@@ -7,3 +7,5 @@ Para ejecutar el sistema, debes poner:
 comando
 <br>
 npm imstall react
+<br>
+Sistema de Registro 2
